@@ -10,16 +10,15 @@ To write a python program to perform stop and wait protocol
 6. Stop the Program
 ## PROGRAM
 ### client.py
- ![client](https://github.com/user-attachments/assets/7c9969ed-83cd-48a9-9a8c-f57638504e81)
+![Screenshot 2024-10-06 171958](https://github.com/user-attachments/assets/dce2682d-5372-4b4d-bab1-f66bd84d23b9)
+
 ### Server.py
-![Server](https://github.com/user-attachments/assets/59b6e718-514d-4ddf-be7f-08baff6bdd64)
+![server](https://github.com/user-attachments/assets/5dfac973-a771-4ecf-9efa-fa9600c8b260)
 
 ## OUTPUT
 ### Client
-![output client](https://github.com/user-attachments/assets/809599f9-1cad-4595-93a9-2bef2b5e20da)
-
-### Server
-![output-server](https://github.com/user-attachments/assets/d525a36a-8922-4773-a0f6-f33b38a834e5)
-
+![Client output](https://github.com/user-attachments/assets/5e02394b-4e18-4e37-8ca3-98dfc280067d)
+### Server 
+![Server output](https://github.com/user-attachments/assets/6ef94acd-e9ce-4a4e-b647-9f35adf83d50)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
